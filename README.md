@@ -1,11 +1,11 @@
 ![alt text](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
-Hi,i'm Sohaib.
+Hi, I'm Sohaib.
 
-I'm passionate motivated ,professional,highly organized,self driven,reliable computer
-programmer. I am very flexible,down to earth,fun,humble,loyal & polite person.I build scalable,
-maintainable, cutting edge , cost effective, result oriented, profitable, ambitious web APPs/APIs. I
-strive to write clean, modular, fast, bug free, & semantic code.
+I'm a passionate motivated, professional, highly organized, self-driven, reliable computer
+programmer. I am a very flexible, down-to-earth, fun, humble, loyal & polite person. I build scalable,
+maintainable, cutting-edge, cost-effective, result-oriented, profitable, and ambitious web APPs/APIs. I
+strive to write clean, modular, fast, bug-free, & semantic code.
 
 PROGRAMMING LANGUAGES
 
@@ -22,7 +22,7 @@ PROGRAMMING LANGUAGES
 
 FRAMEWORKS
 
-I have production experience with following frameworks
+I have production experience with the following frameworks
 
 * Django
 
@@ -55,7 +55,7 @@ Education
 
 BS Computer Science completed in 2022
 
-I have plans to learn Artificial Intelligence,Machine Learning an Quantum Computing.I learn everything with so much patience & hard work.I learn more in Computer Science field in future.
+I have plans to learn Artificial Intelligence, Machine Learning and Quantum Computing. I learn everything with so much patience & hard work. I learn more in the Computer Science field in the future.
 # Check my portfolio
 
 [Portfolio](https://sohaib-ahmad01-github-io-ywlo.vercel.app/)
