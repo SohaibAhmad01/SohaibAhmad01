@@ -58,6 +58,14 @@ BS Computer Science completed in 2022
 I have plans to learn Artificial Intelligence, Machine Learning and Quantum Computing. I learn everything with so much patience & hard work. I learn more in the Computer Science field in the future.
 # Check my portfolio
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+    
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ammar-munirr}/count.svg" /></p> 
+
+<br>
+</div>
+
 [Portfolio](https://sohaib-ahmad01-github-io-ywlo.vercel.app/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SohaibAhmad01)](https://github.com/anuraghazra/github-readme-stats)
